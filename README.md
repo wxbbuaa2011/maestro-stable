@@ -2,8 +2,8 @@
 An analytical cost model of DNN Dataflows (http://synergy.ece.gatech.edu/tools/maestro/)
 
 ### Required packages
-C++ compiler: For  g++, version 6 or higher 
-SCONS build system (https://scons.org/)
+C++ compiler: For  g++, version 6 or higher <br />
+SCONS build system (https://scons.org/) <br />
 Boost library (https://www.boost.org/): version 1.65 or higher
 
 ### How to build the code?
