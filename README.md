@@ -14,3 +14,6 @@ Please refer to "run.sh", which is an example of usage.
 
 ### Dataflow and layer definitions
 Please see data directory. We included some example dataflows and layer definitions (Alexnet and VGG16)
+
+### Note
+Dev-version: https://github.com/georgia-tech-synergy-lab/maestro-dev (unstable but most-ahead version)
