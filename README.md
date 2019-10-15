@@ -1,5 +1,6 @@
-# maestro-dev
-A dev version of MAESTRO. We do not prorvide technical support for this version.
+# maestro - main version
+A stable version of MAESTRO. (H. Kwon et al., Understanding Reuse, Performance, and Hardware Cost of DNN
+Dataflows: A Data-Centric Approach, MICRO 2019)
 
 # Package Dependences
 C++ compiler (g++)
