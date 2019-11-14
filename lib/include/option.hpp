@@ -52,7 +52,7 @@ namespace maestro {
       std::string layer_file_name = "data/layer/vgg16_conv1.m";
       std::string dfsl_file_name = "";
 
-      int num_simd_lanes = 9;
+      int num_simd_lanes = 1;
       bool do_reduction = true;
       bool do_implicit_reduction = true;
       bool fg_sync = false;
