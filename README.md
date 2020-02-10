@@ -72,7 +72,9 @@ Run MAESTRO
 
 --outfile: the MAESTRO dataflow output file name
 
+# Changes from the original version
 
+- For dataflows with multi-level hierarchies (i.e., at least one cluster directive in a mapping description) now recursively models all the edge cases in each hierarchy level, which leads to more precise cost estimation compared to the original version.
 
 
 # Contributors
@@ -81,3 +83,5 @@ Hyoukjun Kwon (hyoukjun@gatech.edu): Main developer, developed core framework an
 Prasanth Chatarasi (cprasanth@gatech.edu): Improved APIs
 
 Felix (Sheng-Chun) Kao (felix@gatech.edu): Implemented Pytorch front-end
+
+Geonhwa Jeong (geonhwa.jeong@gatech.edu): Implemented Keras front-end
